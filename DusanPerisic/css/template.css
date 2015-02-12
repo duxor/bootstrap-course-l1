@@ -1,0 +1,8 @@
+/* CSS Document */
+/* Dusan Perisic */
+
+.jumbotron{
+	background-image:url(../images/success.jpg);
+	background-size:cover;
+	height:700px;
+}
